@@ -1,1 +1,3 @@
 # VoteAnalyzer
+
+This Python code defines a function `get_valid_number` that retrieves a valid numeric input within a specified range from the user. The `main` function utilizes this input-validation function to collect data about candidates in an election. It prompts the user for the number of candidates, their last names, and the number of votes received by each candidate, ensuring that inputs are within valid ranges. The code then calculates and displays the total votes cast, the average votes, and the list of candidates who received more votes than the average. It provides organized information about the election data and candidate performances based on user inputs.
